@@ -1,0 +1,4 @@
+Maximum length of the sequence is :4894
+Maximum length belongs to/ the header is>gi|142022655|gb|EQ086233.1|255 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+Minimum length of the sequence is :115
+Small length belongs to/ the header is>gi|142022655|gb|EQ086233.1|346 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence

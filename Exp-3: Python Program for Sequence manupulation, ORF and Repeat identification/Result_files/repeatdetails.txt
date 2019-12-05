@@ -1,0 +1,103 @@
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|16 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1[('CGTGTCGCTGAT', 2), ('GCCGATGCCGAC', 2), ('GCGCCGATGCCG', 2), ('GCCGAACCTGCC', 2), ('GATCACCGCGAC', 2), ('ATCACCGCGACG', 2), ('CGACGCTCGCGC', 2), ('CGCCGATGCCGA', 2), ('GGCGCCGATGCC', 2), ('GCGACGCTCGCG', 2), ('CGGGCATCGGCG', 2), ('CCGCATCACGCC', 2)]
+
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|527 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1[('CACCGCCATCAA', 2), ('AACGCGATCAGG', 2), ('AGCTCGACGCCG', 2)]
+
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|4 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1[('GACGATGAACGA', 2), ('CGACGATGAACG', 2)]
+
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|454 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1[('GCGCATCGATCG', 2), ('GCGCGCGGCTTC', 2), ('CCGACGATCCCG', 2), ('CTGCTCGACGAA', 2), ('CGCATCGATCGC', 2), ('GCTGCTGCTCGA', 2), ('GCTGCTCGACGA', 2)]
+
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|277 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1[('GCTCGCGCGCAA', 2)]
+
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|250 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1[('ACAGCGTCGCGA', 2), ('CCGCGTCGTCGC', 2), ('CGCCGCGTCGCG', 2), ('AGCGTCGCGAGC', 2), ('CAGCGTCGCGAG', 2)]
+
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|75 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1
+No repeats found
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|91 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1[('CGCGGTTCCGCG', 2), ('CGACGCCGTCGA', 2), ('CGATCGCGTCGG', 2), ('CTGCCGAACATC', 2), ('TCGTCGGCGATC', 2), ('TCGATCGCGTCG', 2)]
+
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|255 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1[('CTGATCCTGTTC', 2), ('TCGCGCTTCGCG', 2), ('TGCTGATCCTGT', 2), ('GCGTGGTCGGCG', 2), ('GCTGATCCTGTT', 2)]
+
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|304 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1
+No repeats found
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|396 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1[('ATCGTCGCGCCG', 2), ('GATGCGCTGGCG', 2), ('GCGCTGGCGCGC', 2), ('ATGCGCTGGCGC', 2), ('TGCTGCGCGACC', 2), ('TGCGCTGGCGCG', 2), ('GATCGTCGCGCC', 2), ('CACCTTCAACGG', 2)]
+
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|346 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1
+No repeats found
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|88 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1[('CGGCCGACGGCG', 2)]
+
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|45 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1[('CCGTCGGCGATG', 2), ('CAGGATCAGCGT', 2), ('GCCGTCGGCGAT', 2), ('GGCCGTCGGCGA', 2), ('GCAGCGCGGCGA', 2), ('AGGCCGTCGGCG', 2), ('CGCCATTCGCCA', 9), ('CCATTCGCCATT', 9), ('GCCATTCGCCAT', 9), ('TCGCCATTCGCC', 10), ('TTCGCCATTCGC', 10), ('ATTCGCCATTCG', 10), ('CATTCGCCATTC', 10)]
+
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|584 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1
+No repeats found
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|322 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1
+No repeats found
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|293 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1[('GCCACGACCGCG', 2), ('CCACGACCGCGG', 2), ('GGCCACGACCGC', 2)]
+
+
+
+For the sequence with identifier >gi|142022655|gb|EQ086233.1|594 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+Sequence repeat details for forward frame1
+No repeats found

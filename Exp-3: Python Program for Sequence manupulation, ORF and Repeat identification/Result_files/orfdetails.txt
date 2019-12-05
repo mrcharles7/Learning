@@ -1,0 +1,750 @@
+
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|16 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+starting position-1527  End position-3036  Length-1509
+starting position-1665  End position-3036  Length-1371
+starting position-1671  End position-3036  Length-1365
+starting position-1689  End position-3036  Length-1347
+starting position-1719  End position-3036  Length-1317
+starting position-1779  End position-3036  Length-1257
+Number of ORFs6
+longest ORF length is1509
+ Shortest ORF length is1257None
+ ORF details are as follows for forward frame2
+
+starting position-3069  End position-4527  Length-1458
+starting position-3234  End position-4527  Length-1293
+starting position-3264  End position-4527  Length-1263
+starting position-3279  End position-4527  Length-1248
+Number of ORFs4
+longest ORF length is1458
+ Shortest ORF length is1248None
+ ORF details are as follows for forward frame3
+
+starting position-1524  End position-3033  Length-1509
+starting position-1662  End position-3033  Length-1371
+starting position-1668  End position-3033  Length-1365
+starting position-1686  End position-3033  Length-1347
+starting position-1716  End position-3033  Length-1317
+starting position-1776  End position-3033  Length-1257
+Number of ORFs6
+longest ORF length is1509
+ Shortest ORF length is1257None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|527 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|4 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|454 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|277 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|250 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+starting position-561  End position-2121  Length-1560
+Number of ORFs1
+longest ORF length is1560
+ Shortest ORF length is1560None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+starting position-558  End position-2118  Length-1560
+Number of ORFs1
+longest ORF length is1560
+ Shortest ORF length is1560None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|75 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|91 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+starting position-978  End position-2274  Length-1296
+starting position-1071  End position-2274  Length-1203
+Number of ORFs2
+longest ORF length is1296
+ Shortest ORF length is1203None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+starting position-975  End position-2271  Length-1296
+starting position-1068  End position-2271  Length-1203
+Number of ORFs2
+longest ORF length is1296
+ Shortest ORF length is1203None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|255 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|304 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|396 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+starting position-1515  End position-2796  Length-1281
+Number of ORFs1
+longest ORF length is1281
+ Shortest ORF length is1281None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|346 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|88 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|45 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+starting position-384  End position-2778  Length-2394
+starting position-681  End position-2778  Length-2097
+starting position-705  End position-2778  Length-2073
+starting position-711  End position-2778  Length-2067
+starting position-879  End position-2778  Length-1899
+starting position-975  End position-2778  Length-1803
+starting position-1002  End position-2778  Length-1776
+starting position-1122  End position-2778  Length-1656
+Number of ORFs8
+longest ORF length is2394
+ Shortest ORF length is1656None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+starting position-381  End position-2775  Length-2394
+starting position-678  End position-2775  Length-2097
+starting position-702  End position-2775  Length-2073
+starting position-708  End position-2775  Length-2067
+starting position-876  End position-2775  Length-1899
+starting position-972  End position-2775  Length-1803
+starting position-999  End position-2775  Length-1776
+starting position-1119  End position-2775  Length-1656
+Number of ORFs8
+longest ORF length is2394
+ Shortest ORF length is1656None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|584 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|322 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|293 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
+ For the sequence with identifier >gi|142022655|gb|EQ086233.1|594 marine metagenome JCVI_SCAF_1096627390048 genomic scaffold, whole genome shotgun sequence
+
+ ORF details are as follows for forward frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for forward frame3
+
+No ORF found
+
+
+None
+ Reverse of the sequence and calculating ORF
+
+ ORF details are as follows for Reverse frame1
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame2
+
+No ORF found
+
+
+None
+ ORF details are as follows for Reverse frame3
+
+No ORF found
+
+
+None
